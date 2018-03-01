@@ -1,0 +1,3 @@
+message: This message is coming from application.yml file -- message key
+message:
+  inner: This message is coming from application.yml file -- -- message.inner key
